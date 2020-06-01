@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     wiserxin
-bilibili_username:  wiserx
+weibo_username:     wiserxin
+# bilibili_username:  wiserx # 暂不支持？
 zhihu_username:     wiserxin
 github_username:    wiserxin
 twitter_username:   wiserxin
@@ -27,7 +27,7 @@ twitter_username:   wiserxin
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
@@ -79,7 +79,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Promised land no where but in vision.<br>应许孰许  虚予须臾"
+sidebar-about-description: "Promised land nowhere but in vision<br>应许孰许  虚予须臾"
 sidebar-avatar: /img/avator-wiserxin-furry.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
