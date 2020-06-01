@@ -2,7 +2,7 @@
 title: Sheen Blog
 SEOTitle: 辛的博客 | Sheen Blog
 header-img: img/home-bg.jpg
-email: comforteryun@163.com
+email: wiserxin@163.com
 description: "关于程序，绘画，动物 | 辛，love life, love fur, longly young | 这里是 @Sheen辛 的个人博客，不得长生遍历世，苦海半渡分治之。"
 keyword: "辛, Sheen辛, Sheen, Furrry, youBadBad, @youBadBad, 辛的博客, Sheen Blog, 博客"
 url: "https://youBadBad.github.io"              # your host, for absolute URL
@@ -13,7 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     wiserxin
+#weibo_username:     wiserxin
+bilibili_username:  wiserx
 zhihu_username:     wiserxin
 github_username:    wiserxin
 twitter_username:   wiserxin
@@ -78,8 +79,8 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Promised land no where but in vision.<br>应许孰许  虚予须臾"
+sidebar-avatar: /img/avator-wiserxin-furry.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -106,31 +107,7 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "测试友人",
+        href: "https://www.jianshu.com/u/da5e57d4aa0f/"
     }
 ]
