@@ -1,6 +1,6 @@
 > 应许孰许 虚予须臾
 
-大家好，我是梓辛，是一只奶牛喵，也有人叫我奶牛。常常出没于[Bilibili](https://space.bilibili.com/107829905)。
+大家好，我是梓辛，是一只奶牛喵。可以叫我奶牛，也可以叫我VV。常常出没于[Bilibili](https://space.bilibili.com/107829905)。
 
 ![233](\img\avator-wiserxin-furry.jpg)
 
