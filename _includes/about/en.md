@@ -12,6 +12,6 @@ Hi, my name's Wizzard Sheen, you can also call me wiserxin ( or a nickname as VV
 - nature
 
 ##### negitive
-- human croud
+- human crowd
 - torridness
 
